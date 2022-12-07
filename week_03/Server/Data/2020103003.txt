@@ -1,0 +1,22 @@
+
+---------------------------------------------------------------
+Student Name: Vibin
+Roll No: 20201030013
+Degree: B.E
+Dept: CSE
+
+SEM 03:		MARKS		GRADE
+DSA:		92		O
+DFCO:		94		O
+BEEE:		90		A+
+IS:		92		A+
+MATH:		96		O
+
+SEM 04:
+TOC:		90		O
+CA:		94		O
+DBMS:		91		O
+OS:		98		O
+LA:		93		O
+EVS:		90		O
+--------------------------------------------------------------

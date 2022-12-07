@@ -1,0 +1,6 @@
+yahoo.com 15.16.143.251
+baidu.com 75.67.34.14
+google.com 10.14.56.123
+nss.org 193.143.21.24
+annauniv.edu 10.14.13.413
+tesla.com 10.12.14.89

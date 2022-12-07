@@ -1,0 +1,22 @@
+
+---------------------------------------------------------------
+Student Name: Arav
+Roll No: 2020103001
+Degree: B.E
+Dept: CSE
+
+SEM 03:		MARKS		GRADE
+DSA:		93		O
+DFCO:		95		O
+BEEE:		89		A+
+IS:		90		A+
+MATH:		98		O
+
+SEM 04:
+TOC:		91		O
+CA:		92		O
+DBMS:		92		O
+OS:		97		O
+LA:		98		O
+EVS:		91		O
+--------------------------------------------------------------
